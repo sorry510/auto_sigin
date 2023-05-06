@@ -4,6 +4,7 @@
 """
 File: hnmcc_sign.py(河南移动签到)
 cron: 33 9 * * *
+new Env('河南移动签到');
 """
 
 import os
