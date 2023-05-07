@@ -5,7 +5,7 @@ ql repo https://github.com/sorry510/auto_sign.git
 ```
 
 ### 河南移动签到(hnmcc_sign.py)
-> 进入河南移动app，点击签到，使用手机抓取这个链接的(`/hnmccClientWap/signNewEdition/signDraw4h.do`)的完整 `cookie`
+> 进入河南移动app，点击签到，使用手机抓取域名为`h5.ha.chinamobile.com`的完整 `cookie`
 
 
 - 配置变量

@@ -20,11 +20,11 @@ headers = {
     "Accept-Encoding": "gzip, deflate, br",
     "Accept-Language": "zh-CN,zh-Hans;q=0.9",
     "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
-    "Origin": "https://h5.ha.chinamobile.com",
+    # "Origin": "https://h5.ha.chinamobile.com",
     "Content-Length": "46",
     "Connection": "keep-alive",
-    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
-    "Referer": "https://h5.ha.chinamobile.com/hnmccClientWap/2021/07/signNew/index.html?channel=channel_WDTB&WT.ac_id=220225_QD_WDTB",
+    # "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    # "Referer": "https://h5.ha.chinamobile.com/hnmccClientWap/2021/07/signNew/index.html?channel=channel_WDTB&WT.ac_id=220225_QD_WDTB",
     "Cookie": hnmcc_cookie
 }
 
