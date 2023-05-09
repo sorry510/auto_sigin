@@ -1,11 +1,11 @@
-## 青龙 app 签到
+## 青龙 app 签到(自用)
 
 ```
 ql repo https://github.com/sorry510/auto_sign.git
 ```
 
 ### 河南移动签到(hnmcc_sign.py)
-> 进入河南移动app，点击签到，使用手机抓取域名为`h5.ha.chinamobile.com`的完整 `cookie`
+> 进入河南移动app，点击签到，使用手机抓取域名为`h5.ha.chinamobile.com`的 `cookie`, 只提取 `hncmjsSSOCookie=xxx;`的部分
 
 
 - 配置变量
@@ -15,7 +15,7 @@ export hnmcc_cookie="xxx"
 ```
 
 ### 郑州移动微信签到
-> 微信进入郑州移动YD66 公众号，使用手机抓取域名为`zxkwx-boot.hacitd.com`的get参数中的openId和userId
+> 微信进入郑州移动YD66 公众号，使用手机抓取域名为`zxkwx-boot.hacitd.com`的get参数中的`openId`和`userId`
 
 ```
 export yd66_query="openId=xxx&userId=xxx"
